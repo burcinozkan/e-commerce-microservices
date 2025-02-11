@@ -1,0 +1,10 @@
+
+Dış dünyadan gelen istekleri karşılar.
+API endpointlerini tanımlar.
+Istekleri service katmanına yönlendirir.
+
+
+Spring'de @Controller anotasyonu, bir sınıfın
+HTTP isteklerini işlemek için kullanılan bir denetleyici
+sınıfı olduğunu belirtir. Bu sınıf, @RequestMapping gibi
+anotasyonlarla belirli URL'ler için işleme metodları sunar.

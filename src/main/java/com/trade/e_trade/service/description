@@ -1,0 +1,4 @@
+
+İş mantığını içerir.
+COntroller ve repository arasında köprü görevi görür.
+Validasyon, hesaplama gibi işlemleri yapar.
